@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">globle-location</string>
+    <string name="title_activity_maps">globle-location</string>
+    <string name="SHORT_CODE">SHORT_CODE_HERE</string>
+    <string name="ACCESS_TOKEN">ACCESS_TOKEN_HERE</string>
+    <string name="subscriberNumber">subscriberNumber_HERE</string>
+</resources>
