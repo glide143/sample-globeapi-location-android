@@ -1,6 +1,6 @@
 #Introduction
-Globe-SMS-Sample
-A Simple Mobile Application For Sending SMS Using Globe Labs API.
+Globe-Location-Sample
+A Simple Mobile Application For offilne/online locator Using Globe Labs API.
 
 #Getting Started
 1.	Using git clone the project or downloading the zip file
@@ -9,6 +9,6 @@ A Simple Mobile Application For Sending SMS Using Globe Labs API.
 4.  To See More Sample Application Visit Globe Labs [Repository](https://github.com/globelabs)
 4.	For more info in Globe Labs Visit Their Website www.globelabs.com.ph
 
-<img src="https://raw.githubusercontent.com/glide143/sample-globeapi-sms-android/master/Screen%20Shot/Screen1.png" width="50%" height="50%">
+<img src="https://github.com/glide143/sample-globeapi-location-android/blob/master/Screen%20Shot/screenshot-1518788230595.jpg" width="50%" height="50%">
 
 
